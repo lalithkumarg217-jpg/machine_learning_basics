@@ -10,6 +10,7 @@ A collection of Machine Learning projects built while learning Python, Data Scie
 - Matplotlib
 - Scikit-learn
 - Jupyter Notebook
+- seaborn
 
 ## 📚 Projects
 
